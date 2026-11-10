@@ -42,6 +42,6 @@ Après déploiement en HTTPS, enregistre le webhook :
 ## Prochaines étapes
 
 - [ ] Désinscription (lien ou mot STOP)
-- [ ] Carte des quartiers (reprendre la démo `index.html`)
+- [ ] Carte des quartiers 
 - [ ] Signalements des habitants avec confirmation avant envoi
 - [ ] Tests automatisés et déploiement (Railway ou Render)
