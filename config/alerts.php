@@ -7,4 +7,5 @@ return [
     'sms_url'         => env('SMS_URL'),
     'sms_key'         => env('SMS_KEY'),
     'sms_from'        => env('SMS_FROM', 'Alerte'),
+    'admin_key'       => env('ALERTS_ADMIN_KEY'),
 ];
